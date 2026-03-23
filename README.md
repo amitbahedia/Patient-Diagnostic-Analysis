@@ -207,6 +207,11 @@ patient-diagnostic-dashboard/
 
 ---
 
+## ⭐ Support
+
+If you found this project useful or insightful, consider giving it a ⭐ on GitHub.  
+It helps others discover the project and motivates further improvements.
+
 ## 👤 Author
 
 **Amit Bahedia** (https://www.linkedin.com/in/amitbahedia/)
