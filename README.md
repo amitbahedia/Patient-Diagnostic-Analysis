@@ -186,6 +186,15 @@ patient-diagnostic-dashboard/
 * Frequent visits align with higher risk patients
 * Prescription trends align with disease patterns
 
+
+  **Diagnosis Engine Dashboard**
+A Diagnosis Engine Dashboard is an interactive tool that simulates clinical decision-making by allowing users to input symptoms and diagnostic parameters. Based on these inputs, it dynamically evaluates conditions and suggests the most likely disease along with recommended treatments. It enables a more analytical and data-driven approach to understanding patient diagnosis beyond static historical records.
+
+<img width="1300" height="749" alt="image" src="https://github.com/user-attachments/assets/c7b0e0ba-19f6-40f1-b190-7c102dff46a6" />
+
+  
+  
+
 ---
 
 
